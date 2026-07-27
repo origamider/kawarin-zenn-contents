@@ -3,7 +3,7 @@ title: "Node.jsって結局なんなの"
 emoji: "🐕"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [nodejs,JavaScript]
-published: false
+published: true
 ---
 # はじめに
 Web開発でNext.jsなどを使う際、Node.jsが必要だと言われる。
